@@ -1,0 +1,5 @@
+This is a collection of domains that serve ads, ad related content, analytics, tracking, etc. I want to prevent my phone/laptop to make connections to these domains -- they do not serve anything useful for me. 
+
+Many of the popuplar lists out there -- like EasyList -- do a wonderful job of providing a central list of such domains. However, I realised that there were many obvious domains that were missed in EasyList. So, I started adding those on my own. I kept on adding these rules in many tools -- various adblocking extensions for browsers, VPNs for Mac, adblcoker VPNs for iOS, etc. Most of these lists was lost when I stopped using those tools or formatted my phone, laptop. When I start afresh, I was repeating the same process of finding these domains and block them. That's when I realise that I should put this in a common place and what's better than github to start with.
+
+Do note that these domains are solely intended for my own use. There are many domains which may provide some useful behaviour to many users but not to me, so I prefer to block them. As with everything else out there, if you want to use this, do it at your own risk.
