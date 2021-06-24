@@ -1,0 +1,13 @@
+app-measurement.com
+bugsnag.com
+chartbeat.net
+google-analytics.com
+googletagmanager.com
+googletagservices.com
+growthrx.in
+ibeat-analytics.com
+instabug.com
+newrelic.com
+scorecardresearch.com
+webengage.co
+webengage.com
