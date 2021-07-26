@@ -1,3 +1,5 @@
 facebook.com
 facebook.net
 fbcdn.net
+edge-chat.facebook.com
+fbsbx.com
