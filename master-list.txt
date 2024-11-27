@@ -7,8 +7,8 @@ amazon-adsystem.com
 googleadservices.com
 mopub.com
 rubiconproject.com
-criteo.com
-facebook.com
+ads-api.x.com
+criteo.comfacebook.com
 facebook.net
 fbcdn.net
 edge-chat.facebook.com
