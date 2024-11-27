@@ -8,3 +8,4 @@ googleadservices.com
 mopub.com
 rubiconproject.com
 ads-api.x.com
+criteo.com
