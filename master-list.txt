@@ -8,8 +8,7 @@ googleadservices.com
 mopub.com
 rubiconproject.com
 ads-api.x.com
-criteo.com
-facebook.com
+criteo.comfacebook.com
 facebook.net
 fbcdn.net
 edge-chat.facebook.com
