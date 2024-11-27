@@ -1,0 +1,33 @@
+name: Update Master List
+
+on:
+  push:
+    paths:
+      - adsystems.txt
+      - facebook.txt
+      - timesofindia.txt
+      - trackers.txt
+
+jobs:
+  update-master-list:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Concatenate files
+      run: |
+        # Specify the directory containing your text files
+        TEXT_FILES="adsystems.txt facebook.txt timesofindia.txt trackers.txt"
+
+        # Concatenate all text files into the master list
+        cat $TEXT_FILES > master-list.txt
+
+    - name: Commit and push changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add master-list.txt
+        git commit -m "Update master list"
+        git push
